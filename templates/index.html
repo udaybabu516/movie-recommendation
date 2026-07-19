@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>CineMatch | Movie Recommendation System</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+
+  <!-- Header / Navbar -->
+  <header class="navbar">
+    <div class="nav-content">
+      <div class="logo">🎬 CineMatch</div>
+      <p class="tagline">Find movies you'll love, based on what you already love.</p>
+    </div>
+  </header>
+
+  <!-- Search Section -->
+  <main class="container">
+    <section class="search-section">
+      <h1>Discover Your Next Favorite Movie</h1>
+      <p class="subtitle">Search a movie title and get instant, smart recommendations.</p>
+
+      <div class="search-box">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Try 'Inception', 'The Godfather', 'Coco'..."
+          autocomplete="off"
+        />
+        <button id="searchBtn">Search</button>
+      </div>
+
+      <!-- Autocomplete suggestion dropdown -->
+      <ul id="suggestions" class="suggestions"></ul>
+
+      <!-- Quick example buttons -->
+      <div class="quick-picks" id="quickPicks">
+        <span>Try:</span>
+      </div>
+
+      <!-- Language filter chips (English, Hindi, Telugu, Tamil, Malayalam, Kannada...) -->
+      <div class="language-filters" id="languageFilters"></div>
+    </section>
+
+    <!-- Browse-by-language grid -->
+    <section id="browseSection" class="browse-section hidden">
+      <h2 class="section-title" id="browseTitle">Browsing</h2>
+      <div id="browseGrid" class="movie-grid"></div>
+    </section>
+
+    <!-- Loading spinner -->
+    <div id="loader" class="loader hidden">
+      <div class="spinner"></div>
+      <p>Finding great movies for you...</p>
+    </div>
+
+    <!-- Error message box -->
+    <div id="errorBox" class="error-box hidden"></div>
+
+    <!-- Searched movie details -->
+    <section id="searchedMovieSection" class="searched-movie hidden">
+      <h2 class="section-title">You Searched For</h2>
+      <div id="searchedMovieCard" class="movie-hero"></div>
+    </section>
+
+    <!-- Recommendations grid -->
+    <section id="recommendationsSection" class="recommendations hidden">
+      <h2 class="section-title">Movies You Might Also Like</h2>
+      <div id="recommendationsGrid" class="movie-grid"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <p>Built with Flask, Pandas &amp; Scikit-learn &middot; Content-based filtering with TF-IDF &amp; Cosine Similarity</p>
+  </footer>
+
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

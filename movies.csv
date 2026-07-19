@@ -1,0 +1,134 @@
+movie_id,title,genres,overview,release_year,rating,language
+1,The Shawshank Redemption,Drama,A banker wrongly convicted of murder forms an unlikely friendship with a fellow inmate while holding onto hope inside a brutal prison.,1994,9.3,English
+2,The Godfather,Crime Drama,The aging patriarch of an organized crime family transfers control of his empire to his reluctant son.,1972,9.2,English
+3,The Dark Knight,Action Crime Drama,A vigilante crime fighter faces a chaotic criminal mastermind who wants to plunge his city into anarchy.,2008,9.0,English
+4,Pulp Fiction,Crime Drama,"The lives of two hitmen, a boxer, and a gangster's wife intertwine in a series of violent and darkly comic events.",1994,8.9,English
+5,Forrest Gump,Drama Romance,A slow-witted but kind-hearted man recounts the extraordinary events of his life as he unknowingly influences history.,1994,8.8,English
+6,Inception,Sci-Fi Action Thriller,A skilled thief who steals secrets through dream-sharing technology is offered a chance to erase his criminal record by planting an idea.,2010,8.8,English
+7,The Matrix,Sci-Fi Action,A computer hacker learns the shocking truth about his reality and joins a rebellion against machines that control humanity.,1999,8.7,English
+8,Fight Club,Drama,An insomniac office worker forms an underground fight club with a soap salesman that spirals into something much bigger.,1999,8.8,English
+9,Interstellar,Sci-Fi Drama Adventure,A group of explorers travel through a wormhole in search of a new habitable planet as Earth faces extinction.,2014,8.6,English
+10,The Lord of the Rings: The Fellowship of the Ring,Fantasy Adventure,A young hobbit inherits a powerful ring and must journey across a dangerous land to destroy it.,2001,8.8,English
+11,Star Wars: A New Hope,Sci-Fi Adventure,A farm boy joins a rebellion to rescue a princess and destroy a planet-killing weapon built by an evil empire.,1977,8.6,English
+12,Gladiator,Action Drama,A betrayed Roman general seeks revenge against the corrupt emperor who murdered his family and stole his throne.,2000,8.5,English
+13,Titanic,Romance Drama,A poor artist and a wealthy young woman fall in love aboard the ill-fated maiden voyage of an ocean liner.,1997,7.9,English
+14,Avatar,Sci-Fi Adventure,A paraplegic marine sent to a distant alien moon becomes torn between orders and protecting the world he learns to love.,2009,7.9,English
+15,Jurassic Park,Sci-Fi Adventure,"Scientists clone dinosaurs to populate a theme park, but the attraction turns deadly when the creatures escape.",1993,8.2,English
+16,The Lion King,Animation Family Drama,"A young lion prince flees his kingdom after his father's death, only to learn the true meaning of responsibility.",1994,8.5,English
+17,Toy Story,Animation Family Comedy,A cowboy doll is threatened when a new spaceman action figure becomes the top toy in a boy's room.,1995,8.3,English
+18,Finding Nemo,Animation Family Adventure,A timid clownfish sets out on a journey across the ocean to rescue his son from a dentist's fish tank.,2003,8.2,English
+19,Up,Animation Family Adventure,An elderly widower ties thousands of balloons to his house and flies to South America to fulfill a lifelong promise.,2009,8.3,English
+20,Coco,Animation Family Fantasy,A young boy travels to the Land of the Dead to uncover the truth about his family's mysterious history.,2017,8.4,English
+21,The Avengers,Action Sci-Fi Adventure,Earth's mightiest heroes must unite to stop a mischievous god and his alien army from enslaving humanity.,2012,8.0,English
+22,Iron Man,Action Sci-Fi Adventure,A billionaire industrialist builds a powered suit of armor to escape captivity and becomes a high-tech superhero.,2008,7.9,English
+23,Black Panther,Action Sci-Fi Adventure,A newly crowned king must protect his technologically advanced nation from a vengeful outsider.,2018,7.3,English
+24,Spider-Man: Into the Spider-Verse,Animation Action Sci-Fi,A teenager from Brooklyn becomes Spider-Man and teams up with counterparts from other dimensions.,2018,8.4,English
+25,Joker,Crime Drama Thriller,A failed comedian descends into madness and becomes an infamous criminal mastermind in a decaying city.,2019,8.4,English
+26,Parasite,Drama Thriller,A poor family schemes to become employed by a wealthy household by infiltrating it through deception.,2019,8.5,Korean
+27,Whiplash,Drama Music,A young drummer enrolls at a cutthroat music conservatory where a ruthless instructor pushes him to his limits.,2014,8.5,English
+28,La La Land,Romance Musical Drama,A jazz musician and an aspiring actress fall in love while pursuing their dreams in Los Angeles.,2016,8.0,English
+29,The Social Network,Drama Biography,"A college student creates a revolutionary social networking website, leading to lawsuits and lost friendships.",2010,7.7,English
+30,Gone Girl,Thriller Mystery Drama,A man becomes the prime suspect in his wife's disappearance as dark secrets from their marriage emerge.,2014,8.1,English
+31,Se7en,Crime Thriller Mystery,Two detectives hunt a serial killer who uses the seven deadly sins as his motives for a string of murders.,1995,8.6,English
+32,Shutter Island,Mystery Thriller,A U.S. marshal investigates the disappearance of a patient from an isolated psychiatric hospital.,2010,8.2,English
+33,The Prestige,Drama Mystery Sci-Fi,Two rival stage magicians engage in a dangerous competition to create the ultimate illusion.,2006,8.5,English
+34,Memento,Mystery Thriller,A man with short-term memory loss uses notes and tattoos to hunt down the man who killed his wife.,2000,8.4,English
+35,The Departed,Crime Drama Thriller,An undercover cop and a police informant infiltrate opposite sides of the Boston criminal underworld.,2006,8.5,English
+36,Goodfellas,Crime Drama,A young man rises through the ranks of a powerful mob family over several decades.,1990,8.7,English
+37,The Silence of the Lambs,Crime Thriller Horror,A young FBI trainee seeks the help of an imprisoned cannibalistic killer to catch another serial murderer.,1991,8.6,English
+38,Django Unchained,Western Drama,A freed slave teams up with a bounty hunter to rescue his wife from a brutal plantation owner.,2012,8.4,English
+39,Kill Bill: Vol. 1,Action Crime,A former assassin wakes from a coma and sets out on a roaring rampage of revenge against her betrayers.,2003,8.2,English
+40,Mad Max: Fury Road,Action Adventure Sci-Fi,"In a post-apocalyptic wasteland, a woman rebels against a tyrannical ruler in search of her homeland.",2015,8.1,English
+41,John Wick,Action Thriller,A retired hitman seeks vengeance against the gangsters who took everything from him.,2014,7.4,English
+42,The Wolf of Wall Street,Biography Crime Comedy,A stockbroker's rise and fall as he indulges in corruption and excess on Wall Street.,2013,8.2,English
+43,Braveheart,Action Drama History,A Scottish warrior leads an uprising against the English king who invaded his homeland.,1995,8.3,English
+44,Saving Private Ryan,War Drama,A group of soldiers is sent behind enemy lines to bring home a paratrooper whose brothers were killed in action.,1998,8.6,English
+45,Schindler's List,Biography Drama History,A businessman gradually becomes concerned for his Jewish workforce after witnessing their persecution during World War II.,1993,9.0,English
+46,The Green Mile,Drama Fantasy,A death row prison guard witnesses miraculous events performed by a mysterious inmate with healing powers.,1999,8.6,English
+47,A Beautiful Mind,Drama Biography,A brilliant mathematician struggles with schizophrenia while making groundbreaking contributions to game theory.,2001,8.2,English
+48,The Pianist,Drama War Biography,A Polish Jewish pianist struggles to survive the destruction of the Warsaw ghetto during World War II.,2002,8.5,English
+49,Good Will Hunting,Drama Romance,A janitor at MIT with a gift for mathematics must confront his troubled past with the help of a therapist.,1997,8.3,English
+50,The Truman Show,Drama Comedy Sci-Fi,A man slowly discovers his entire life has been broadcast as a reality television show without his knowledge.,1998,8.2,English
+51,Eternal Sunshine of the Spotless Mind,Romance Sci-Fi Drama,"A heartbroken man undergoes a procedure to erase memories of his former girlfriend, only to fall for her again.",2004,8.3,English
+52,The Grand Budapest Hotel,Comedy Adventure Drama,A legendary concierge and his loyal lobby boy become embroiled in a theft and murder mystery at a famous hotel.,2014,8.1,English
+53,Knives Out,Mystery Comedy Crime,A detective investigates the death of a wealthy crime novelist surrounded by a dysfunctional and suspicious family.,2019,7.9,English
+54,Get Out,Horror Mystery Thriller,A young man uncovers a disturbing secret when he visits his girlfriend's seemingly friendly family estate.,2017,7.7,English
+55,Inside Out,Animation Family Comedy,Five emotions inside a young girl's mind try to guide her through a difficult and life-changing move.,2015,8.1,English
+56,Dangal,Drama Sport Biography,A former wrestler trains his daughters to become world-class wrestlers despite deep-rooted gender bias.,2016,8.4,Hindi
+57,3 Idiots,Comedy Drama,Two friends search for their long-lost college companion while recalling how he taught them to rethink the meaning of success.,2009,8.4,Hindi
+58,Zindagi Na Milegi Dobara,Drama Adventure Comedy,Three childhood friends rediscover themselves and confront personal fears during a bachelor road trip through Spain.,2011,8.1,Hindi
+59,Gully Boy,Drama Music,A young man from the slums of Mumbai chases his dream of becoming a rapper against all odds.,2019,8.0,Hindi
+60,Andhadhun,Thriller Crime Comedy,A blind pianist becomes entangled in a murder mystery after witnessing more than he should have.,2018,8.2,Hindi
+61,Queen,Comedy Drama,A jilted bride embarks on her honeymoon alone and discovers independence and self-worth along the way.,2013,8.1,Hindi
+62,Piku,Comedy Drama,A quirky father-daughter relationship is tested during a long road trip filled with humor and tension.,2015,7.6,Hindi
+63,Barfi!,Comedy Drama Romance,"A mute and deaf young man navigates love and life with charm, humor, and an unshakable spirit.",2012,8.1,Hindi
+64,Lagaan,Drama Sport Musical,Villagers under colonial rule wager their future on a high-stakes game of cricket against their British rulers.,2001,8.1,Hindi
+65,Swades,Drama,A NASA scientist returns to his home village in India and is inspired to help modernize and uplift the community.,2004,8.2,Hindi
+66,Taare Zameen Par,Drama Family,A struggling child with dyslexia finds hope through an art teacher who recognizes his hidden talent.,2007,8.3,Hindi
+67,Rockstar,Drama Music Romance,"An aspiring musician channels heartbreak into stardom, discovering that pain fuels his greatest art.",2011,7.7,Hindi
+68,Kabir Singh,Drama Romance,A brilliant but self-destructive surgeon spirals into addiction after losing the love of his life.,2019,7.0,Hindi
+69,Article 15,Crime Drama Mystery,"A police officer investigates the disappearance of girls in a rural village, uncovering deep-seated caste discrimination.",2019,8.1,Hindi
+70,Gangs of Wasseypur,Crime Drama,A decades-long blood feud between rival families unfolds against the coal mafia of a small Indian town.,2012,8.2,Hindi
+71,Pink,Drama Thriller,Three independent women fight back in court after being wrongly accused following a violent altercation.,2016,8.1,Hindi
+72,Bajrangi Bhaijaan,Drama Comedy Adventure,"A devout man helps a mute Pakistani girl find her way back home across the border, defying tension between two nations.",2015,8.0,Hindi
+73,Chak De! India,Drama Sport,A disgraced former hockey captain trains India's women's national team to reclaim his honor and their glory.,2007,8.2,Hindi
+74,PK,Comedy Drama Sci-Fi,"An alien stranded on Earth questions human customs and religious dogma with innocent, disarming curiosity.",2014,8.1,Hindi
+75,Baahubali: The Beginning,Action Adventure Fantasy,A young man raised in a waterfall village discovers his royal destiny and rises to reclaim his kingdom.,2015,8.1,Telugu
+76,Baahubali 2: The Conclusion,Action Adventure Fantasy,The epic saga concludes as the truth behind a king's betrayal and downfall is finally revealed.,2017,8.2,Telugu
+77,RRR,Action Drama,Two legendary revolutionaries forge an unlikely friendship before uniting to fight against colonial oppression.,2022,7.9,Telugu
+78,Arjun Reddy,Drama Romance,A brilliant but short-tempered surgeon spirals into self-destruction after a painful breakup.,2017,8.1,Telugu
+79,Pushpa: The Rise,Action Drama,A laborer rises through the ranks of a red sandalwood smuggling syndicate through sheer grit and cunning.,2021,7.6,Telugu
+80,Magadheera,Action Fantasy Romance,A warrior's centuries-old love story is reawakened when reincarnated souls cross paths in the present day.,2009,7.4,Telugu
+81,Eega,Fantasy Action Romance,A man murdered by a jealous rival is reincarnated as a housefly and seeks poetic revenge.,2012,7.7,Telugu
+82,Rangasthalam,Drama Action,A hearing-impaired man fights against a corrupt village president who has ruled through fear for decades.,2018,8.7,Telugu
+83,Jersey,Drama Sport,A failed cricketer makes a late-career comeback to fulfill his son's small wish and reclaim his lost dream.,2019,8.3,Telugu
+84,Sye Raa Narasimha Reddy,Action History Drama,A fearless tribal chief leads an armed rebellion against colonial forces decades before India's independence movement.,2019,6.6,Telugu
+85,Ala Vaikunthapurramuloo,Drama Comedy Action,A young man raised in humble surroundings discovers he was swapped at birth and belongs to a wealthy family.,2020,7.4,Telugu
+86,Sita Ramam,Romance Drama War,An orphaned soldier's mysterious wartime love story unfolds through letters discovered decades later.,2022,8.5,Telugu
+87,Bheemla Nayak,Action Drama,A clash of egos between a suspended cop and a village strongman escalates into a battle of pride and honor.,2022,7.4,Telugu
+88,Hi Nanna,Drama Romance,A single father's carefully guarded past resurfaces when his daughter meets the woman connected to it.,2023,7.7,Telugu
+89,Mahanati,Biography Drama,The rise and tragic fall of one of South Indian cinema's most beloved and luminous actresses is chronicled.,2018,8.5,Telugu
+90,Vikram Vedha,Action Crime Thriller,A tough police officer's worldview is shaken while hunting a gangster who challenges his notion of right and wrong.,2017,8.4,Tamil
+91,Master,Action Thriller,An alcoholic professor is sent to a juvenile school where he clashes with a ruthless criminal running it from the shadows.,2021,7.3,Tamil
+92,Kaithi,Action Thriller,A newly released ex-convict is forced into a night of chaos to protect a group of stranded police officers.,2019,8.4,Tamil
+93,Super Deluxe,Drama Thriller Comedy,"Several interconnected lives collide over one chaotic day, exposing hidden secrets and moral dilemmas.",2019,8.5,Tamil
+94,96,Romance Drama,Former high school sweethearts reunite at a reunion and revisit the love they never got to fully live.,2018,8.5,Tamil
+95,Asuran,Action Drama,A farmer is forced to confront a violent past to protect his family from a powerful and vengeful landlord.,2019,8.4,Tamil
+96,Vikram,Action Thriller,An anti-narcotics task force uncovers a deadly conspiracy while investigating a series of mysterious murders.,2022,8.3,Tamil
+97,Jai Bhim,Crime Drama,A lawyer fights to secure justice for a tribal man's wife after his wrongful arrest and disappearance in custody.,2021,8.7,Tamil
+98,Soorarai Pottru,Drama Biography,An ambitious man defies relentless obstacles to make air travel affordable for the common people of India.,2020,8.7,Tamil
+99,Petta,Action Drama,A soft-spoken hostel warden's mysterious past resurfaces when old enemies come looking for revenge.,2019,6.6,Tamil
+100,Kabali,Action Drama,An aging gangster released from prison sets out to rebuild his empire and rescue his family from old rivals.,2016,5.8,Tamil
+101,Baasha,Action Drama,A humble auto-rickshaw driver's violent past as a feared don is uncovered when his family is threatened.,1995,8.4,Tamil
+102,Nayakan,Crime Drama,A boy who witnesses his father's death grows up to become a powerful and beloved crime boss in Mumbai.,1987,8.7,Tamil
+103,Vada Chennai,Crime Drama,A young carrom player is dragged into decades of gang rivalry within his coastal Chennai neighborhood.,2018,8.4,Tamil
+104,Anbe Sivam,Drama Comedy,An arrogant ad filmmaker and a disfigured but wise stranger form an unlikely bond during a chaotic journey home.,2003,8.7,Tamil
+105,Drishyam,Thriller Crime Drama,A cable operator uses his love of films to outwit the police after his family commits an accidental crime.,2013,8.6,Malayalam
+106,Premam,Romance Comedy Drama,"A man's romantic journey unfolds across three distinct chapters of his life, from schoolboy crush to mature love.",2015,8.3,Malayalam
+107,Kumbalangi Nights,Drama Family,Four estranged brothers living in a chaotic household slowly rebuild their bond after love enters their lives.,2019,8.6,Malayalam
+108,Bangalore Days,Drama Romance Comedy,"Three cousins navigate love, ambition, and self-discovery after moving to the city of Bangalore together.",2014,8.2,Malayalam
+109,Lucifer,Action Drama,A political power vacuum erupts into a fierce battle after the sudden death of a beloved chief minister.,2019,7.4,Malayalam
+110,Ustad Hotel,Drama Family,A young man rejects his family's expectations to pursue his passion for cooking alongside his grandfather.,2012,8.3,Malayalam
+111,Maheshinte Prathikaaram,Drama Comedy,A small-town photographer vows silent revenge after a humiliating public defeat shakes his pride.,2016,8.5,Malayalam
+112,Angamaly Diaries,Action Drama,A group of restless young men from a small town get entangled in the local pork business and gang politics.,2017,8.2,Malayalam
+113,The Great Indian Kitchen,Drama,"A newly married woman silently endures the rigid, patriarchal routines expected of her in her husband's household.",2021,8.3,Malayalam
+114,Jallikattu,Action Drama Thriller,A runaway buffalo destined for slaughter sends an entire hill village into a night of primal chaos.,2019,7.6,Malayalam
+115,Thondimuthalum Driksakshiyum,Crime Drama Comedy,"A simple theft spirals into a darkly comic standoff between a petty thief, a victim, and the local police.",2017,8.4,Malayalam
+116,Kammatti Paadam,Crime Drama,"Childhood friends from a marginalized community are torn apart by greed, real estate, and betrayal over the years.",2016,8.3,Malayalam
+117,Charlie,Adventure Romance Drama,A woman chasing a mysterious mural artist's trail uncovers a string of unforgettable strangers along the way.,2015,8.2,Malayalam
+118,Manjummel Boys,Adventure Drama Thriller,A group of friends on a trip face a harrowing rescue mission after one of them falls into a deep cave.,2024,8.4,Malayalam
+119,Ee.Ma.Yau,Drama Comedy,A son's attempt to give his father a grand funeral spirals into an absurd and chaotic single-night ordeal.,2018,8.1,Malayalam
+120,KGF: Chapter 1,Action Drama,An impoverished young man rises through a brutal gold mining underworld to fulfill a promise made to his dying mother.,2018,8.2,Kannada
+121,KGF: Chapter 2,Action Drama,"Now the ruler of the Kolar Gold Fields, a feared warlord must defend his empire from powerful new enemies.",2022,8.4,Kannada
+122,Kantara,Action Drama Thriller,A fierce forest guardian clashes with a forestry officer while ancient traditions and modern greed collide over sacred land.,2022,8.2,Kannada
+123,Lucia,Thriller Sci-Fi Drama,An insomniac movie-goer takes an experimental drug that blurs the line between his dreams and reality.,2013,8.3,Kannada
+124,U Turn,Thriller Mystery,A journalist investigating traffic violations at a flyover stumbles onto a string of mysterious deaths.,2016,7.7,Kannada
+125,Rangitaranga,Mystery Thriller Romance,A city writer visiting his ancestral village uncovers a decades-old mystery tied to a haunting local legend.,2015,8.4,Kannada
+126,Tagaru,Action Drama,An honest police officer battles a corrupt political nexus that controls crime in a small town.,2018,7.2,Kannada
+127,777 Charlie,Drama Adventure,"A lonely, reclusive man's life is transformed by the loyal companionship of a stray dog he reluctantly adopts.",2022,8.7,Kannada
+128,Kirik Party,Romance Comedy Drama,A carefree college troublemaker's chaotic love life unfolds through flashbacks narrated to his juniors.,2016,8.2,Kannada
+129,Ondu Motteya Kathe,Comedy Drama Romance,A balding young man's confidence and love life take an unexpected turn after a bold decision.,2017,8.2,Kannada
+130,Mungaru Male,Romance Drama,A carefree young man's life changes forever when he falls for a woman he meets on a rainy day in the hills.,2006,7.4,Kannada
+131,Ugramm,Action Crime Drama,"A fearless enforcer's rise in the criminal underworld is driven by loyalty, power, and inevitable betrayal.",2014,7.9,Kannada
+132,Avane Srimannarayana,Action Adventure Comedy,A quirky constable stumbles onto the trail of a legendary hidden treasure sought by dangerous rivals.,2019,8.2,Kannada
+133,Godhi Banna Sadharana Mykattu,Drama Thriller,A man wrongly imprisoned for years returns home to a family and world that has moved on without him.,2016,8.3,Kannada
